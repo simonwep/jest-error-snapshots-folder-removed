@@ -1,0 +1,17 @@
+{
+    "name": "jest-error-snapshots-folder-removed",
+    "private": true,
+    "version": "0.0.0",
+    "description": "",
+    "author": "Simon Reinisch <trash@reinisch.io>",
+    "main": "dist/index.js",
+    "license": "MIT",
+    "scripts": {
+        "test": "jest",
+        "test:watch": "jest --watchAll"
+    },
+    "dependencies": {
+        "fs-extra": "^8.1.0",
+        "jest": "^24.9.0"
+    }
+}
